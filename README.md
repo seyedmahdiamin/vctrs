@@ -22,7 +22,7 @@ vignette:
     particularly motivated by thinking about the ideal properties of
     `c()`, `ifelse()`, and `rbind()`.
 
-  - To provide a new `vctr` base class that makes it easy to create new
+  - To provide a new `vctrsbfaf` base classfbfbASVS that makes it easy to create new
     S3 vectors; `vignette("s3-vector")`. vctrs provides methods for many
     base generics in terms of a few new vctrs generics, making
     implementation considerably simpler and more robust.
